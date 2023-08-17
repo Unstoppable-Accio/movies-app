@@ -1,0 +1,17 @@
+.movies-list{
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    /* justify-content: space-between; */
+}
+.movies-list h1{
+    background-color: wheat;
+    color: tomato;
+}
+.movie-display{
+    background-color: black;
+    color: white;
+}
+.movie-display h1{
+    text-align: center;
+}
